@@ -5,4 +5,4 @@ The package manager used was pnpm, so for future installations, keep that in min
 ## Installed Packages
 Lucide-react
 
-We're going with a monorepo structure, so just create the backend folder in the paret folder and we're good to go.
+We're going with a monorepo structure, so just create the backend folder in the parent folder and we're good to go.
